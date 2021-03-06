@@ -66,11 +66,6 @@ public:
 		delete[] m_array;
 	}
 
-	void push()
-	{
-
-	}
-
 };
 
 int main()
