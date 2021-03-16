@@ -21,20 +21,6 @@ class Card
 
 	void GetValue()
 	{
-		values two = 2;
-		values three = 3;
-		values four = 4;
-		values five = 5;
-		values six = 6;
-		values seven = 7;
-		values eight = 8;
-		values nine = 9;
-		values ten = 10;
-		values J = 10;
-		values Q = 10;
-		values K = 10;
-		values A = 1;
 
-		return values;
 	}
 };
